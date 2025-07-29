@@ -101,8 +101,8 @@ body {
 }
 
 .hero {
-  background-image:url()
-    font-size: 0.95rem;
+  background-image:url(../img/promo_macbook_air_avail__e8ksaudoisey_large.jpg)
+  
    
 }
 
@@ -245,6 +245,39 @@ body {
 .ent-card img {
   object-fit: cover;
 }
+#MacBook{
+  background-image: url(../img/promo_macbook_air_avail__e8ksaudoisey_large.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 350px;
+}
+#intelligence{
+  background-image: url(../img/promo_apple_intelligence_visual_intelligence__fz9rjall8kii_large.jpg);
+   background-size: cover;
+  background-repeat: no-repeat;
+  height: 350px;
+}
+#avail{
+  background-image: url(../img/promo_ipadpro_avail__s271j89g8kii_large.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 350px;
+  color: #fff;
+}
+#promo{
+  background-image: url(../img/promo_ipad_air__bfbxzvw65c02_large.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 350px;
+  
+}
+#shadow{
+  background-image: url(../img/hero_iphone_family__fuz5j2v5xx6y_large.jpg)
+  
+  
+}
+
+
 @media (max-width: 767px) {
   .ent-card, .ent-card img {
     min-width: 220px;
